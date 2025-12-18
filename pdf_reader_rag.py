@@ -1,3 +1,6 @@
+# Before starting this code, make sure document should be accessible
+# to the code.
+# Better to keep it in the same folder with this code.
 ########################## Preparation Stage ###################
 
 # Install OpenAI
